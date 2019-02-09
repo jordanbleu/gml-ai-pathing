@@ -1,0 +1,5 @@
+
+with (navMeshNavigator)
+{
+	requestedNode = id;
+}
