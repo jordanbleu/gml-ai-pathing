@@ -1,0 +1,1 @@
+node0 = instance_nearest(mouse_x, mouse_y, NavMeshNode);
