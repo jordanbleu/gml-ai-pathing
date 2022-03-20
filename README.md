@@ -23,4 +23,9 @@ connectedNodes = [nodeB, nodeC];
 
 Check out the two included levels to see how that's all done.
 
+## Gifs
 
+![example 1](https://raw.githubusercontent.com/jordanbleu/gml-ai-pathing/master/example1.gif)
+
+
+![example 2](https://raw.githubusercontent.com/jordanbleu/gml-ai-pathing/master/example2.gif)
